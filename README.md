@@ -8,3 +8,4 @@ Need:
 * Language Model for studio
 
 You also need to start server in the LM studio with developer mode and make sure the LM Studio url and port is right.
+Make sure to enter the right path of Tesseract and model name in LM Studio.
